@@ -379,7 +379,7 @@
             <div class="section-heading section-padding pdb55">
                 <h2>Gallery</h2>
             </div>
-            
+
             <div class="row">
 
                 <div class="tz-gallery">
@@ -701,7 +701,10 @@
     <script src="js/jquery.barfiller.js"></script>
     <!-- == custom Js File == -->
     <script src="js/custom.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+    <script>
+        baguetteBox.run('.tz-gallery');
+    </script>
 </body>
 
 </html>
