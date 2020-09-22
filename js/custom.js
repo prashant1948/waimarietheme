@@ -278,4 +278,3 @@ jQuery(document).ready(function () {
     });
 });
 
-]
