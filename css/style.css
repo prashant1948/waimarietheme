@@ -113,7 +113,7 @@ h5 {
 }
 .black-bg {
   /* background: #212121; */
-  background: #19388a;
+  background: ##fbbc05;
   color: #ffffff;
 }
 .black-bg:hover,
@@ -1058,7 +1058,7 @@ h5 {
   padding: 15px 11px;
   border-radius: 2px;
   display: block; */
-  background: #19388a;
+  background: #fbbc05;
     color: white;
     padding: 15px 11px;
     border-radius: 2px;
@@ -2116,7 +2116,7 @@ h5 {
 **  Video Box
 -------------------------------------*/
 .video-box-area {
-  background: url('../images/about/2.jpg');
+  background: url('../images/waimarie/our\ people\ 2.jpg');
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -2129,7 +2129,8 @@ h5 {
   width: 100%;
   height: 100%;
   content: '';
-  background: rgba(0, 0, 0, 0.8);
+  /* background: rgba(0, 0, 0, 0.8); */
+  background: rgba(0, 0, 0, 0.6);
 }
 .sucess-story {
   padding-top: 132px;
@@ -4297,4 +4298,16 @@ h5 {
     line-height: 25px;
     color: white;
 }
+}
+
+.white{
+  color: white;
+}
+
+.footer-important-link{
+  padding-top: unset;
+}
+
+.footer-adderess-area{
+  margin-bottom: 40px;
 }

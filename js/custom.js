@@ -61,7 +61,7 @@ jQuery(document).ready(function () {
     * Slider
     * =====================================***/
     $(".slider-carousel").owlCarousel({
-        autoPlay: 7000,
+        autoPlay: false,
         paginationSpeed: 5000,
         rewindSpeed: 5000,
         slideSpeed: 5000,
@@ -150,12 +150,12 @@ jQuery(document).ready(function () {
     /*** =====================================
     *  Popup Video
     * ===================================== ***/
-    $('.video-play-box .play-button').magnificPopup({
-        items: {
-            src: 'https://www.youtube.com/watch?v=UAJyJt_lnKA'
-        },
-        type: 'iframe', // this is default type
-    });
+    // $('.video-play-box .play-button').magnificPopup({
+    //     items: {
+    //         src: 'https://www.youtube.com/watch?v=UAJyJt_lnKA'
+    //     },
+    //     type: 'iframe', // this is default type
+    // });
     /** =====================================
     *   Barfiller
     * ===================================== **/
