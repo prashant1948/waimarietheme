@@ -4314,8 +4314,10 @@ h5 {
 }
 
 .vimeostyle{
-  width: 100%;
-    padding-bottom: 50px
+  width: 70%;
+    padding-bottom: 50px;
+    display: flex;
+    margin: 0 auto  ;
 }
 
 
@@ -4329,42 +4331,25 @@ h5 {
   }
   } */
 
-  .get-envolved-item .envolped-top.green-dark .text:before
+ .green-dark
   {
-    background: #095534;
+    color: #095534 !important;
   }
 
-  .get-envolved-item .envolped-top.green-dark{
-    border: 3px solid #095534;
-  }
-
-  .get-envolved-item .envolped-top.yellow-dark .text:before
+.yellow-dark
   {
-    background: #fbbc05;
+    color: #fbbc05 !important;
   }
 
-  .get-envolved-item .envolped-top.yellow-dark{
-    border: 3px solid #fbbc05;
-  }
-
-  .get-envolved-item .envolped-top.orange-dark .text:before
-  {
-    background: #ff5722;
-  }
-
-  .get-envolved-item .envolped-top.orange-dark{
-    border: 3px solid #ff5722;
+  .orange-dark{
+    color: #ff5722 !important;
   }
   
-  .get-envolved-item .envolped-top.blue-dark .text:before
+  .blue-dark
   {
-    background: #19388a;
+    color: #19388a !important;
   }
 
-  .get-envolved-item .envolped-top.blue-dark{
-    border: 3px solid #19388a;
-  }
-  
   .tz-gallery {
     padding: 40px;
 }

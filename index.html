@@ -183,7 +183,7 @@
         </div>
     </section>
 
-    <section class="ash-white-bg recent-news-area">
+    <section class="ash-white-bg">
         <div class="container">
             <div class="section-heading section-padding">
                 <h2><span> Waimarie: Hamilton East Community House</span>ABOUT US</h2>
@@ -222,7 +222,7 @@
                             </div>
                         </div> -->
 
-                        <p class="pdb55">
+                        <p>
                             A community house is a people friendly community facility usually based in a central,
                             residential part of the community. Everyone is welcome at a community house. Being open,
                             accessible, affordable and supportive to the community is a very important Kaupapa of a
@@ -237,7 +237,7 @@
                             To encourage respect and understanding of the Treaty of Waitangi and cultural diversity
                             within the south-east Kirikiriroa community.
                         </p>
-                        <h3>S.E.K.C.A</h3>
+                        <!-- <h3>S.E.K.C.A</h3>
 
                         <p>
                             The community house is governed by a committee called SEKCA (South East Kirikiriroa
@@ -247,51 +247,51 @@
                             The meetings are held once a month.
 
                             If you are interested in joining the Committee please phone the house for more details.
-                        </p>
+                        </p> -->
 
                         <a href="#" class="sune-btn black-bg">KNOW MORE <i class="ion-android-arrow-forward"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-2">
-                    <div class="get-envolved-item first-item pdt20">
-                        <div class="envolped-top yellow-dark">
-                            <div class="text"><span>100 Years</span></div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-1">
+                    <div class="deference-making-item">
+                        <div class="text yellow-dark">
+                            <span class="yellow-dark">50</span>
+                            No. of Years
                         </div>
-                        <!-- <div class="content">
-                            <h3><a href="#">No. of Years</a></h3>
-                        </div> -->
+                        <div class="clear"></div>
                     </div>
 
-                    <div class="get-envolved-item first-item">
-                        <div class="envolped-top green-dark">
-                            <div class="text"><span>10000000000 Works</span></div>
+                    <div class="deference-making-item">
+                        <div class="text  green-dark">
+                            <span class="green-dark">10000</span>
+                            No. of Works
                         </div>
-                        <!-- <div class="content">
-                            <h3><a href="#">No. of Years</a></h3>
-                        </div> -->
+                        <div class="clear"></div>
                     </div>
 
-                    <div class="get-envolved-item first-item">
-                        <div class="envolped-top orange-dark">
-                            <div class="text"><span>1000000 Volunteers</span></div>
+                    <div class="deference-making-item">
+                        <div class="text orange-dark">
+                            <span class="orange-dark">$876500</span>
+                            People Contribution
                         </div>
-                        <!-- <div class="content">
-                            <h3><a href="#">No. of Years</a></h3>
-                        </div> -->
+                        <div class="clear"></div>
                     </div>
 
-                    <div class="get-envolved-item first-item">
-                        <div class="envolped-top blue-dark">
-                            <div class="text"><span>1000000000 Helpers</span></div>
+                    <div class="deference-making-item">
+                        <div class="text blue-dark">
+                            <span class="blue-dark">150</span>
+                            No. of Volunteers
                         </div>
-                        <!-- <div class="content">
-                            <h3><a href="#">No. of Years</a></h3>
-                        </div> -->
+                        <div class="clear"></div>
                     </div>
+
+
                 </div>
+                <div class="col-lg-1"></div>
 
-                <div class="col-lg-5">
-                    <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive pdb55" alt="news">
+                <div class="col-lg-4">
+                    <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive" alt="news">
 
                     <iframe src="https://player.vimeo.com/video/199596711?title=0&amp;byline=0&amp;portrait=0"
                         width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"
@@ -502,7 +502,7 @@
 
                     <div class="col-lg-4">
                         <iframe
-                            src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FWaimarie.Hamilton.East.Community.House&width=315&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=300"
+                            src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FWaimarie.Hamilton.East.Community.House&width=315&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=300"
                             scrolling="yes"
                             style="border:none; overflow:hidden; width:315px; height:300px; background: white; float:left; "
                             allowtransparency="true" frameborder="0"></iframe>
