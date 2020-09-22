@@ -4427,6 +4427,13 @@ h5 {
       width: 100% !important;
       min-width: unset !important;
       margin-top: 50px; 
-    margin-bottom: 50px;   }
+    margin-bottom: 50px;   
+  }
+  .urgent-causes p{
+    text-align: center;
+  }
+  .mt-40{
+    margin-top: 40px;
+  }
 }
 
