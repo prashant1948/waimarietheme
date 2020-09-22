@@ -184,10 +184,10 @@
 
     <section class="urgent-causes-area ash-white-bg">
         <div class="container">
-            <div class="section-heading section-padding pdb55">
+            <div class="section-heading section-padding">
                 <h2><span> Waimarie: Hamilton East Community House</span>ABOUT US</h2>
             </div>
-            <div class="row pdb55">
+            <div class="row">
                 <div class="col-lg-5">
                     <div class="urgent-causes">
                         <!-- <div class="causes-detial-text pdt20">
@@ -221,7 +221,7 @@
                             </div>
                         </div> -->
 
-                        <p>
+                        <p class="pdb55">
                             A community house is a people friendly community facility usually based in a central,
                             residential part of the community. Everyone is welcome at a community house. Being open,
                             accessible, affordable and supportive to the community is a very important Kaupapa of a
@@ -236,45 +236,62 @@
                             To encourage respect and understanding of the Treaty of Waitangi and cultural diversity
                             within the south-east Kirikiriroa community.
                         </p>
+                        <!-- <h3>S.E.K.C.A</h3>
 
+                        <p>
+                            The community house is governed by a committee called SEKCA (South East Kirikiriroa
+                            Community Association Inc.). This is a group of local people who volunteer their time to
+                            help govern Waimarie. We need people with an interest in the community. Specific skills
+                            needed are accounting, financial, policy formulation or an interest in the local community.
+                            The meetings are held once a month.
+
+                            If you are interested in joining the Committee please phone the house for more details.
+                        </p> -->
+
+                        <a href="#" class="sune-btn black-bg">KNOW MORE <i class="ion-android-arrow-forward"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-7">
-                    <!-- <div class="urgent-causes-image">
-                        <div class="images big-image">
-                            <img src="images/waimarie/trevor 1 June 18.jpeg" class="img-responsive img-circle"
-                                alt="causes">
+                <div class="col-lg-3">
+                    <div class="get-envolved-item first-item">
+                        <div class="envolped-top">
+                            <div class="text"><span>100 Years</span></div>
                         </div>
-                        <div class="images middum-image">
-                            <img src="images/waimarie/photo-86.jpg" class="img-responsive img-circle" alt="causes">
+                        <!-- <div class="content">
+                            <h3><a href="#">No. of Years</a></h3>
+                        </div> -->
+                    </div>
+
+                    <div class="get-envolved-item first-item">
+                        <div class="envolped-top">
+                            <div class="text"><span>10000000000 Works</span></div>
                         </div>
-                        <div class="images small-image">
-                            <img src="images/waimarie/Professional picture that we yellowed.jpg"
-                                class="img-responsive img-circle" alt="causes">
+                        <!-- <div class="content">
+                            <h3><a href="#">No. of Years</a></h3>
+                        </div> -->
+                    </div>
+
+                    <div class="get-envolved-item first-item">
+                        <div class="envolped-top">
+                            <div class="text"><span>1000000 Volunteers</span></div>
                         </div>
-                    </div> -->
+                        <!-- <div class="content">
+                            <h3><a href="#">No. of Years</a></h3>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+                    <img src="images/waimarie/Professional picture that we yellowed.jpg" class="img-responsive"
+                        alt="news">
 
                     <iframe src="https://player.vimeo.com/video/199596711?title=0&amp;byline=0&amp;portrait=0"
-                        width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+                        width="400" height="360" frameborder="0" allowfullscreen="allowfullscreen"
+                        class="vimeostyle"></iframe>
                 </div>
-            </div>
 
-            <div class="row pdt20">
-                <h3>S.E.K.C.A</h3>
-
-                <p>
-                    The community house is governed by a committee called SEKCA (South East Kirikiriroa
-                    Community Association Inc.). This is a group of local people who volunteer their time to
-                    help govern Waimarie. We need people with an interest in the community. Specific skills
-                    needed are accounting, financial, policy formulation or an interest in the local community.
-                    The meetings are held once a month.
-
-                    If you are interested in joining the Committee please phone the house for more details.
-                </p>
-
-                <a href="#" class="sune-btn black-bg">KNOW MORE <i class="ion-android-arrow-forward"></i></a>
 
             </div>
+
         </div>
     </section>
 
