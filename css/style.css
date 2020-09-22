@@ -4319,7 +4319,7 @@ h5 {
 }
 
 
-@media (min-width: 1350px){
+/* @media (min-width: 1350px){
   .container{
     padding-right: 15px;
     padding-left: 15px;
@@ -4327,7 +4327,7 @@ h5 {
     margin-left: auto;
     width: 95%;
   }
-  }
+  } */
 
   .get-envolved-item .envolped-top.green-dark .text:before
   {
