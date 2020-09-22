@@ -35,7 +35,7 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Responsive-->
     <link rel="stylesheet" href="css/responsive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css">
+    <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css">
     <!-- Modernizr-->
     <script src="js/modernizr-2.8.3.min.js"></script>
 </head>
@@ -375,12 +375,12 @@
     </section>
 
     <section class="deference-making-area ash-white-bg recent-news-area">
-        <div class="container">
+        <div class="container-fluid">
             <div class="section-heading section-padding pdb55">
                 <h2>Gallery</h2>
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="aligner">
                     <div class="container">
                         <div class="owl-flex owl-theme">
@@ -449,6 +449,51 @@
                     </div>
 
                 </div>
+
+            </div> -->
+            <div class="row">
+
+                <div class="tz-gallery">
+
+                    <div class="row">
+
+                        <div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="images/waimarie/photo-86.jpg">
+                                <img src="images/waimarie/photo-86.jpg" alt="Bridge" class="img-gallery">
+                            </a>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="images/waimarie/Professional picture that we yellowed.jpg">
+                                <img src="images/waimarie/Professional picture that we yellowed.jpg" alt="Park"
+                                    class="img-gallery">
+                            </a>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="images/waimarie/Mar P1000854.JPG">
+                                <img src="images/waimarie/Mar P1000854.JPG" alt="Tunnel" class="img-gallery">
+                            </a>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="images/waimarie/trevor 1 June 18.jpeg">
+                                <img src="images/waimarie/trevor 1 June 18.jpeg" alt="Bridge" class="img-gallery">
+                            </a>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="images/waimarie/our people 2.jpg">
+                                <img src="images/waimarie/our people 2.jpg" alt="Park" class="img-gallery">
+                            </a>
+                        </div>
+                        <div class="col-sm-6 col-md-4">
+                            <a class="lightbox" href="images/waimarie/Dec DSC01034.JPG">
+                                <img src="images/waimarie/Dec DSC01034.JPG" alt="Tunnel" class="img-gallery">
+                            </a>
+                        </div>
+
+
+                    </div>
+
+                </div>
+
 
             </div>
     </section>
@@ -727,8 +772,6 @@
     <script src="js/jquery.barfiller.js"></script>
     <!-- == custom Js File == -->
     <script src="js/custom.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js"></script>
-
 
 </body>
 

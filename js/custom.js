@@ -279,7 +279,121 @@ jQuery(document).ready(function () {
 });
 
 
-$(document).on("click", '[data-toggle="lightbox"]', function (event) {
-    event.preventDefault();
-    $(this).ekkoLightbox();
+/*
+    * Isotope
+    */
+var $wrapper = $('#itemDetailGallery');
+
+if ($wrapper.get(0)) {
+    $wrapper.waitForImages(function () {
+        $wrapper.isotope({
+            itemSelector: '.isotope-item'
+        });
+    });
+}
+
+/*
+Load More
+*/
+var loadMore = {
+
+    pages: 0,
+    currentPage: 1,
+    $wrapper: $('#loadMoreWrapper'),
+    $btn: $('#loadMore'),
+    $btnWrapper: $('#loadMoreBtnWrapper'),
+    $loader: $('#loadMoreLoader'),
+
+    build: function () {
+
+        var self = this
+
+        self.pages = self.$wrapper.data('total-pages');
+
+        if (self.pages <= 1) {
+
+            self.$btnWrapper.remove();
+            return;
+
+        } else {
+
+            // init isotope
+            self.$wrapper.isotope();
+
+            self.$btn.on('click', function () {
+                self.loadMore();
+            });
+
+            // Lazy Load
+            if (self.$btn.hasClass('btn-lazy-load')) {
+                self.$btn.appear(function () {
+                    self.$btn.trigger('click');
+                }, {
+                    data: undefined,
+                    one: false,
+                    accX: 0,
+                    accY: 0
+                });
+            }
+
+        }
+
+    },
+    loadMore: function () {
+
+        var self = this;
+
+        self.$btn.hide();
+        self.$loader.show();
+
+        // Ajax
+        $.ajax({
+            url: 'ajax/demo-one-page-agency-ajax-load-more-' + (parseInt(self.currentPage) + 1) + '.html',
+            complete: function (data) {
+
+                var $items = $(data.responseText);
+
+                setTimeout(function () {
+
+                    self.$wrapper.append($items)
+
+                    self.$wrapper.isotope('appended', $items);
+
+                    self.currentPage++;
+
+                    if (self.currentPage < self.pages) {
+                        self.$btn.show().blur();
+                    } else {
+                        self.$btnWrapper.remove();
+                    }
+
+                    // Carousel
+                    $(function () {
+                        $('[data-plugin-carousel]:not(.manual), .owl-carousel:not(.manual)').each(function () {
+                            var $this = $(this),
+                                opts;
+
+                            var pluginOptions = theme.fn.getOptions($this.data('plugin-options'));
+                            if (pluginOptions)
+                                opts = pluginOptions;
+
+                            $this.themePluginCarousel(opts);
+                        });
+                    });
+
+                    self.$loader.hide();
+
+                }, 1000);
+
+            }
+        });
+
+    }
+
+}
+
+$window.on('load', function () {
+    if ($('#loadMoreWrapper').get(0)) {
+        loadMore.build();
+    }
 });
