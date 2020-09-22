@@ -182,7 +182,7 @@
         </div>
     </section>
 
-    <section class="urgent-causes-area ash-white-bg">
+    <section class="ash-white-bg recent-news-area">
         <div class="container">
             <div class="section-heading section-padding">
                 <h2><span> Waimarie: Hamilton East Community House</span>ABOUT US</h2>
@@ -236,7 +236,7 @@
                             To encourage respect and understanding of the Treaty of Waitangi and cultural diversity
                             within the south-east Kirikiriroa community.
                         </p>
-                        <!-- <h3>S.E.K.C.A</h3>
+                        <h3>S.E.K.C.A</h3>
 
                         <p>
                             The community house is governed by a committee called SEKCA (South East Kirikiriroa
@@ -246,14 +246,14 @@
                             The meetings are held once a month.
 
                             If you are interested in joining the Committee please phone the house for more details.
-                        </p> -->
+                        </p>
 
                         <a href="#" class="sune-btn black-bg">KNOW MORE <i class="ion-android-arrow-forward"></i></a>
                     </div>
                 </div>
-                <div class="col-lg-3">
-                    <div class="get-envolved-item first-item">
-                        <div class="envolped-top">
+                <div class="col-lg-2">
+                    <div class="get-envolved-item first-item pdt20">
+                        <div class="envolped-top yellow-dark">
                             <div class="text"><span>100 Years</span></div>
                         </div>
                         <!-- <div class="content">
@@ -262,7 +262,7 @@
                     </div>
 
                     <div class="get-envolved-item first-item">
-                        <div class="envolped-top">
+                        <div class="envolped-top green-dark">
                             <div class="text"><span>10000000000 Works</span></div>
                         </div>
                         <!-- <div class="content">
@@ -271,8 +271,17 @@
                     </div>
 
                     <div class="get-envolved-item first-item">
-                        <div class="envolped-top">
+                        <div class="envolped-top orange-dark">
                             <div class="text"><span>1000000 Volunteers</span></div>
+                        </div>
+                        <!-- <div class="content">
+                            <h3><a href="#">No. of Years</a></h3>
+                        </div> -->
+                    </div>
+
+                    <div class="get-envolved-item first-item">
+                        <div class="envolped-top blue-dark">
+                            <div class="text"><span>1000000000 Helpers</span></div>
                         </div>
                         <!-- <div class="content">
                             <h3><a href="#">No. of Years</a></h3>
@@ -280,16 +289,13 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4">
-                    <img src="images/waimarie/Professional picture that we yellowed.jpg" class="img-responsive"
-                        alt="news">
+                <div class="col-lg-5">
+                    <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive" alt="news">
 
                     <iframe src="https://player.vimeo.com/video/199596711?title=0&amp;byline=0&amp;portrait=0"
-                        width="400" height="360" frameborder="0" allowfullscreen="allowfullscreen"
+                        width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"
                         class="vimeostyle"></iframe>
                 </div>
-
-
             </div>
 
         </div>
