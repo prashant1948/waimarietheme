@@ -1256,7 +1256,7 @@ h5 {
   padding: 33px 5px 35px 5px;
 }
 .collection-rate .rs-tooltip::before {
-  content: 'Accomplish';
+  content: 'No. of Years';
   position: absolute;
   bottom: 36px;
   font-size: 16.8px;
@@ -1307,6 +1307,7 @@ h5 {
 }
 .collection-rate .rs-tooltip-text:after {
   content: '%';
+  color: white;
 }
 .urgent-causes-image {
   position: relative;
@@ -1357,8 +1358,8 @@ h5 {
   transition: 0.3s;
 }
 .get-envolved-item .envolped-top .text {
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   border-radius: 500px;
   overflow: hidden;
   color: #ffffff;
@@ -1392,7 +1393,7 @@ h5 {
   font-family: "Ionicons";
   position: absolute;
   bottom: 0px;
-  left: 43px;
+  left: 55px;
   transition: 0.3s;
   opacity: 0;
 }
@@ -4310,4 +4311,9 @@ h5 {
 
 .footer-adderess-area{
   margin-bottom: 40px;
+}
+
+.vimeostyle{
+  width: 360px;
+    padding-bottom: 50px
 }
