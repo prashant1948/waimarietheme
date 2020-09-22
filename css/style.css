@@ -4295,3 +4295,10 @@ h5 {
     height: 450px;
     object-fit: cover;
 }
+
+@media (max-width: 991px){
+.slider-area .sune-carousel-caption h1 .greating {
+    line-height: 25px;
+    color: white;
+}
+}

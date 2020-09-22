@@ -264,6 +264,105 @@
         </div>
     </section>
 
+    <section class="recent-news-area">
+        <div class="container">
+            <div class="section-heading section-padding">
+                <h2><span>SEE OUR</span>RECENT POSTS</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="news-item">
+                        <div class="image">
+                            <img src="images/waimarie/trevor desk.jpeg" class="img-responsive" alt="news">
+                            <div class="news-date-circle">
+                                <span>21</span>
+                                Septmeber
+                                2020
+                            </div>
+                        </div>
+                        <div class="news-text">
+                            <h3><a href="#">Happy Mental Health Awareness Week 2020 </a></h3>
+                            <p>
+                                Today is day 1 of Mental Health Awareness week. You can get involved with MHAW
+                                Wellbeing..</p>
+                        </div>
+                        <a href="#" class="read-more-icon"><span>+</span></a>
+                    </div>
+                    <!--/.news-item-->
+                </div>
+                <div class="col-md-4">
+                    <div class="news-item">
+                        <div class="image">
+                            <img src="images/waimarie/kiaora.jpg" class="img-responsive" alt="news">
+                            <div class="news-date-circle">
+                                <span>21</span>
+                                Septmeber
+                                2020
+                            </div>
+                        </div>
+                        <div class="news-text">
+                            <h3><a href="#">Kia Ora!</a></h3>
+                            <p>
+                                Accepting orders of the veggie boxes for this week.
+                                Seasonal fruits and veggies @ just $11/ box!
+
+                            </p>
+                        </div>
+                        <a href="#" class="read-more-icon"><span>+</span></a>
+                    </div>
+                    <!--/.news-item-->
+                </div>
+                <div class="col-md-4">
+                    <div class="news-item">
+                        <div class="image">
+                            <img src="images/waimarie/trevor June 18.jpeg" class="img-responsive" alt="news">
+                            <div class="news-date-circle">
+                                <span>20</span>
+                                Septmeber
+                                2020
+                            </div>
+                        </div>
+                        <div class="news-text">
+                            <h3><a href="#">Happy Mental Health Awareness Week 2020 </a></h3>
+                            <p>
+                                Today is day 1 of Mental Health Awareness week. You can get involved with MHAW
+                                Wellbeing..</p>
+                        </div>
+                        <a href="#" class="read-more-icon"><span>+</span></a>
+                    </div>
+                    <!--/.news-item-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/.recent-news-area-->
+
+    <section class="deference-making-area ash-white-bg">
+        <div class="container">
+            <div class="section-heading section-padding pdb55">
+                <h2>Gallery</h2>
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-9">
+
+                </div>
+
+                <div class="col-lg-3">
+                    <iframe
+                        src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FWaimarie.Hamilton.East.Community.House&width=280&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"
+                        scrolling="yes"
+                        style="border:none; overflow:hidden; width:280px; height:450px; background: white; float:left; "
+                        allowtransparency="true" frameborder="0"></iframe>
+
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
     <footer class="main-footer-area">
         <div class="footer-adderess-area">
             <div class="container">
@@ -351,6 +450,9 @@
     <script src="js/jquery.barfiller.js"></script>
     <!-- == custom Js File == -->
     <script src="js/custom.js"></script>
+
+
+
 </body>
 
 <!-- Mirrored from enroutedigitallab.com/html/sune/html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 20 Sep 2020 18:49:15 GMT -->
