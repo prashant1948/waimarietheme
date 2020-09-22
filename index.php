@@ -379,78 +379,7 @@
             <div class="section-heading section-padding pdb55">
                 <h2>Gallery</h2>
             </div>
-
-            <!-- <div class="row">
-                <div class="aligner">
-                    <div class="container">
-                        <div class="owl-flex owl-theme">
-                            <div class="item">
-                                <a href="images/waimarie/Mar P1000854.JPG" data-lightbox="gallery">
-                                    <img src="images/waimarie/Mar P1000854.JPG" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/trevor 1 June 18.jpeg" data-lightbox="gallery">
-                                    <img src="images/waimarie/trevor 1 June 18.jpeg" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/Professional picture that we yellowed.jpg"
-                                    data-lightbox="gallery">
-                                    <img src="images/waimarie/Professional picture that we yellowed.jpg" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/trevor desk.jpeg" data-lightbox="gallery">
-                                    <img src="images/waimarie/trevor desk.jpeg" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/Mar P1000854.JPG" data-lightbox="gallery">
-                                    <img src="images/waimarie/Mar P1000854.JPG" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/Dec DSC01034.JPG" data-lightbox="gallery">
-                                    <img src="images/waimarie/Dec DSC01034.JPG" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/mrcat.jpg" data-lightbox="gallery">
-                                    <img src="images/waimarie/mrcat.jpg" alt="" class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/trevor June 18.jpeg" data-lightbox="gallery">
-                                    <img src="images/waimarie/trevor June 18.jpeg" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/Professional picture that we yellowed.jpg"
-                                    data-lightbox="gallery">
-                                    <img src="images/waimarie/Professional picture that we yellowed.jpg" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                            <div class="item">
-                                <a href="images/waimarie/trevor 1 June 18.jpeg" data-lightbox="gallery">
-                                    <img src="images/waimarie/trevor 1 June 18.jpeg" alt=""
-                                        class="img-responsive gallerybox">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div> -->
+            
             <div class="row">
 
                 <div class="tz-gallery">
