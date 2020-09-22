@@ -35,6 +35,7 @@
     <link rel="stylesheet" href="css/style.css">
     <!-- Responsive-->
     <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css">
     <!-- Modernizr-->
     <script src="js/modernizr-2.8.3.min.js"></script>
 </head>
@@ -290,7 +291,7 @@
                 </div>
 
                 <div class="col-lg-5">
-                    <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive" alt="news">
+                    <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive pdb55" alt="news">
 
                     <iframe src="https://player.vimeo.com/video/199596711?title=0&amp;byline=0&amp;portrait=0"
                         width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"
@@ -373,18 +374,83 @@
         </div>
     </section>
 
-    <section class="deference-making-area ash-white-bg">
+    <section class="deference-making-area ash-white-bg recent-news-area">
         <div class="container">
             <div class="section-heading section-padding pdb55">
                 <h2>Gallery</h2>
             </div>
 
             <div class="row">
+                <div class="aligner">
+                    <div class="container">
+                        <div class="owl-flex owl-theme">
+                            <div class="item">
+                                <a href="images/waimarie/Mar P1000854.JPG" data-lightbox="gallery">
+                                    <img src="images/waimarie/Mar P1000854.JPG" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/trevor 1 June 18.jpeg" data-lightbox="gallery">
+                                    <img src="images/waimarie/trevor 1 June 18.jpeg" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/Professional picture that we yellowed.jpg"
+                                    data-lightbox="gallery">
+                                    <img src="images/waimarie/Professional picture that we yellowed.jpg" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/trevor desk.jpeg" data-lightbox="gallery">
+                                    <img src="images/waimarie/trevor desk.jpeg" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/Mar P1000854.JPG" data-lightbox="gallery">
+                                    <img src="images/waimarie/Mar P1000854.JPG" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/Dec DSC01034.JPG" data-lightbox="gallery">
+                                    <img src="images/waimarie/Dec DSC01034.JPG" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/mrcat.jpg" data-lightbox="gallery">
+                                    <img src="images/waimarie/mrcat.jpg" alt="" class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/trevor June 18.jpeg" data-lightbox="gallery">
+                                    <img src="images/waimarie/trevor June 18.jpeg" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/Professional picture that we yellowed.jpg"
+                                    data-lightbox="gallery">
+                                    <img src="images/waimarie/Professional picture that we yellowed.jpg" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                            <div class="item">
+                                <a href="images/waimarie/trevor 1 June 18.jpeg" data-lightbox="gallery">
+                                    <img src="images/waimarie/trevor 1 June 18.jpeg" alt=""
+                                        class="img-responsive gallerybox">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
 
+                </div>
 
             </div>
-
-        </div>
     </section>
     <section class="video-box-area">
         <div class="inner-border">
@@ -661,7 +727,7 @@
     <script src="js/jquery.barfiller.js"></script>
     <!-- == custom Js File == -->
     <script src="js/custom.js"></script>
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js"></script>
 
 
 </body>
