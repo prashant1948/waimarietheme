@@ -662,10 +662,10 @@ h5 {
 }
 .menu-area .menu-list > li a {
   /* padding: 25px 26px; */
-  padding: 25px 18px;
+  padding: 25px 12px;
   position: relative;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 13px;
 }
 .menu-area .menu-list > li a::before {
   content: '|';
@@ -4282,10 +4282,6 @@ h5 {
 .grey-bg{
   background: #b0acab;
   color: #ffffff;
-}
-
-.menu-list{
-  margin: 0 auto !important;
 }
 
 .slider-imgages{

@@ -81,7 +81,7 @@
         <div class="menu-area ash-white-bg">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
+                    <div class="col-md-10">
                         <nav id="easy-menu">
                             <div id="head-mobile">
                             </div>
@@ -133,18 +133,17 @@
                         </div> -->
                         <!--/.search-box -->
                     </div>
-                    <!-- <div class="col-md-3">
+                    <div class="col-md-2">
                         <div class="social-icon text-right">
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook-official"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus-square"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter-square"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
                                 <li><a href="#"><i class="fa fa-youtube-square"></i></a></li>
                                 <li><a href="#"><i class="fa fa-vimeo-square"></i></a></li>
                             </ul>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
