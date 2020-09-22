@@ -4402,14 +4402,31 @@ h5 {
 .baguetteBox-button {
     background-color: transparent !important;
 }
+.img-gallery{
+  height: 278px;
+  width: 100%;
+}
 
 @media(max-width: 768px) {
     body {
         padding: 0;
     }
+    .vimeostyle{
+      width: 100%;
+    }
+    .urgent-causes .sune-btn{
+      margin: 0 auto;
+      display: block;
+    }
+    .img-gallery {
+        height: auto;
+        margin-top: 10px;
+    }
+    iframe{
+      max-width: 100% !important;
+      width: 100% !important;
+      min-width: unset !important;
+      margin-top: 50px; 
+    margin-bottom: 50px;   }
 }
 
-.img-gallery{
-  height: 278px;
-  width: 100%;
-}
