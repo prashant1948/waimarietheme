@@ -71,7 +71,7 @@
                                 <span>MAKE A</span>
                                 DONATION
                             </a>
-                            <a href="#" class="doante-button yellow-bg">
+                            <a href="#" class="doante-button yellow-background">
                                 <span>BECOME A</span>
                                 VOLUNTEER
                             </a>
