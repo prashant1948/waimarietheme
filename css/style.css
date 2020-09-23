@@ -4604,3 +4604,15 @@ transform: translateY(-90%);
 .heading h3, .heading p{
   color: white;
 }
+
+.logo-text{
+  display: inline-block;
+    border-radius: 3px;
+    text-align: left;
+    line-height: 21px;
+    font-size: 21px;
+    min-width: 170px;
+    font-weight: 500;
+    padding: 8px 14px 12px 14px;
+    margin: 10px 3px;
+}

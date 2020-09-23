@@ -60,12 +60,19 @@
         <div class="top-bar-area">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-2">
                         <div class="logo">
                             <a href="index.html"><img src="images/logo.jpg" alt="logo" /></a>
                         </div>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-3">
+                        <div class="">
+                            <span class="logo-text">
+                                Waimarie: Hamilton East Community House
+                                </a>
+                        </div>
+                    </div>
+                    <div class="col-md-7">
                         <div class="text-right">
                             <a href="#" class="doante-button orange-bg">
                                 <span>MAKE A</span>
@@ -188,7 +195,9 @@
     <section class="ash-white-bg recent-news-area">
         <div class="container">
             <div class="section-heading section-padding">
-                <h2><span> Waimarie: Hamilton East Community House</span>ABOUT US</h2>
+                <h2>
+                    <!-- <span> Waimarie: Hamilton East Community House</span> -->
+                    ABOUT US</h2>
             </div>
             <div class="row">
                 <div class="col-lg-5 col-xl-5">
