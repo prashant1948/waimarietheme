@@ -1058,7 +1058,7 @@ h5 {
   padding: 15px 11px;
   border-radius: 2px;
   display: block; */
-  background: rgb(49, 78, 158);
+  background: rgb(25 56 138);
     color: white;
     padding: 15px 11px;
     border-radius: 2px;
@@ -1818,7 +1818,7 @@ h5 {
   height: 100%;
   content: '';
   /* background: rgba(251, 188, 5, 0.95); */
-  background:  rgb(49, 78, 158);
+  background:  rgb(25 56 138);
 }
 .subscribe-box-area .heading {
   width: 470px;
@@ -4597,7 +4597,8 @@ transform: translateY(-90%);
 }
 
 .yellow-background{
-  background: rgb(49, 78, 158);
+  /* background: rgb(49, 78, 158); */
+  background: rgb(25 56 138);
   color: white;
 }
 
