@@ -4437,3 +4437,11 @@ h5 {
   }
 }
 
+
+
+@media (min-width: 1440px){
+.deference-making-item .text {
+    margin-left: 0;
+    margin-top: 15px;
+}
+}
