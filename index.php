@@ -606,7 +606,7 @@
 
                     <div class="col-lg-4">
                         <iframe
-                            src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FWaimarie.Hamilton.East.Community.House&width=315&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=300"
+                            src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FWaimarie.Hamilton.East.Community.House&width=315&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=300"
                             scrolling="yes"
                             style="border:none; overflow:hidden; width:315px; height:300px; background: white; float:left;"
                             allowtransparency="true" frameborder="0"></iframe>
