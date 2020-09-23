@@ -62,10 +62,11 @@ jQuery(document).ready(function () {
     * =====================================***/
     $(".slider-carousel").owlCarousel({
         autoPlay: false,
+        dots: true,
         paginationSpeed: 5000,
         rewindSpeed: 5000,
         slideSpeed: 5000,
-        pagination: false,
+        // pagination: false,
         items: 1,
         itemsDesktop: [991, 1],
         itemsDesktopSmall: [667, 1],
@@ -77,6 +78,7 @@ jQuery(document).ready(function () {
             "<i class='ion-ios-arrow-right'></i>"
         ]
     });
+
     /*** =====================================
     * Rond Slider
     * =====================================***/

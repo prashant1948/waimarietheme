@@ -4448,6 +4448,9 @@ h5 {
     margin-left: 0;
     margin-top: 15px;
 }
+.slider-imgages{
+  height: 650px;
+}
 }
 
 
@@ -4546,4 +4549,22 @@ h5 {
 }
 .orange-svg{
   fill: #ff5722 !important;
+}
+
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span{
+  background: #fbbc05;
+}
+
+.owl-theme .owl-controls .owl-page span{
+  background: white !important;
+}
+
+.owl-pagination{
+  position: absolute;
+left: 0;
+width: 100%;
+top: 90%;
+-webkit-transform: translateY(-90%);
+-ms-transform: translateY(-90%);
+transform: translateY(-90%);
 }
