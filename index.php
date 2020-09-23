@@ -224,7 +224,7 @@
                             </div>
                         </div> -->
 
-                        <p>
+                        <p class="pdb55">
                             A community house is a people friendly community facility usually based in a central,
                             residential part of the community. Everyone is welcome at a community house. Being open,
                             accessible, affordable and supportive to the community is a very important Kaupapa of a
@@ -239,7 +239,7 @@
                             To encourage respect and understanding of the Treaty of Waitangi and cultural diversity
                             within the south-east Kirikiriroa community.
                         </p>
-                        <!-- <h3>S.E.K.C.A</h3>
+                        <h3>S.E.K.C.A</h3>
 
                         <p>
                             The community house is governed by a committee called SEKCA (South East Kirikiriroa
@@ -249,7 +249,7 @@
                             The meetings are held once a month.
 
                             If you are interested in joining the Committee please phone the house for more details.
-                        </p> -->
+                        </p>
 
                         <a href="#" class="sune-btn black-bg">KNOW MORE <i class="ion-android-arrow-forward"></i></a>
                     </div>
@@ -394,8 +394,9 @@
                 </div>
 
                 <div class="col-lg-4 col-xl-4 mt-40">
-                    <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive" alt="news">
+                    <!-- <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive" alt="news"> -->
 
+                    <img src="images/ghoduvolunteer.jpg" alt="" class="img-responsive">
                     <iframe src="https://player.vimeo.com/video/199596711?title=0&amp;byline=0&amp;portrait=0"
                         width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"
                         class="vimeostyle"></iframe>
