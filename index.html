@@ -754,9 +754,18 @@
                             </ul>
                         </div>
                     </div> -->
-
-                    <div class="col-lg-12">
-                        <div class="footer-social-icon text-center">
+                    <div class="col-lg-9">
+                        <div class="footer-address text-left">
+                            <ul>
+                                <li class="ml-0"><i class="fa fa-map-marker"></i> 53 Wellington St, Hamilton East 3216
+                                </li>
+                                <li><i class="ion-iphone"></i> (07) 858 3453 </li>
+                                <li><i class="ion-forward"></i>manager@waimarie.org </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="footer-social-icon text-right">
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>

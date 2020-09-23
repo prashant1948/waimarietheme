@@ -699,12 +699,12 @@ h5 {
   text-transform: uppercase;
 }
 .menu-area #easy-menu li a:hover {
-  /* color: #ff572  2; */
-  color: #19388a;
+  color: #ff5722;
+  /* color: #19388a; */
 }
 .menu-area #easy-menu li a.active {
-  /* color: #ff5722; */
-  color: #19388a;
+  color: #ff5722;
+  /* color: #19388a; */
 }
 .menu-area .search-box {
   display: inline-block;
@@ -4616,4 +4616,8 @@ transform: translateY(-90%);
     font-weight: 500;
     padding: 8px 14px 12px 14px;
     margin: 10px 3px;
+}
+
+.ml-0{
+  margin-left: 0 !important;
 }
