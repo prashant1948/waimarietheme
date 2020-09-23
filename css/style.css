@@ -4407,6 +4407,12 @@ h5 {
   width: 100%;
 }
 
+
+.mt-40{
+  margin-top: 0px;
+}
+
+
 @media(max-width: 768px) {
     body {
         padding: 0;
@@ -4437,11 +4443,107 @@ h5 {
   }
 }
 
-
-
 @media (min-width: 1440px){
 .deference-making-item .text {
     margin-left: 0;
     margin-top: 15px;
 }
+}
+
+
+.elementor-400 .elementor-element.elementor-element-53f5f89>.elementor-element-populated {
+  padding: 50px 0 0;
+}
+
+.elementor-column-wrap {
+  width: 50%;
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+.elementor *, .elementor :after, .elementor :before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.elementor-widget-wrap {
+  position: relative;
+  width: 100%;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: flex-start;
+  -ms-flex-line-pack: start;
+  align-content: flex-start;
+}
+
+.elementor-widget:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.elementor-element .elementor-widget-container {
+  -webkit-transition: background .3s,border .3s;
+  transition: background .3s,border .3s,-webkit-border-radius .3s,-webkit-box-shadow .3s;
+  -o-transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+  transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
+  transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,-webkit-border-radius .3s,-webkit-box-shadow .3s;
+}
+
+.elementor-400 .elementor-element.elementor-element-a4fb1a6 .elementor-counter {
+  text-align: center;
+  padding: 10px 0 8px;
+}
+
+.elementor-400 .elementor-element.elementor-element-a4fb1a6 .elementor-counter-title {
+  color: #000;
+  font-family: "Chelsea Market",Sans-serif;
+  line-height: 20px;
+}
+
+.elementor-400 .elementor-element.elementor-element-a4fb1a6 .elementor-counter svg {
+  fill: #9064bf;
+}
+
+.elementor-counter .elementor-counter-wrapper {
+  position: relative;
+  z-index: 2;
+}
+.elementor-400 .elementor-element.elementor-element-a4fb1a6 .elementor-counter-number-wrapper {
+  margin-bottom: 10px;
+}
+
+.elementor-widget-counter .elementor-counter-number-prefix {
+  font-family: "Chelsea Market",Sans-serif;
+  font-weight: 400;
+}
+.elementor-400 .elementor-element.elementor-element-a4fb1a6 .elementor-counter-number {
+  /* color: #000;
+  font-size: 72px;
+  letter-spacing: -1.8px; */
+
+  color: #000;
+  font-size: 40px;
+  letter-spacing: -1.8px;
+  line-height: -54px;
+  /* margin-top: -12px !important; */
+  padding-top: -14px;
+  position: absolute;
+  top: -85px;
+  left: 27%;
+  
+}
+.elementor-widget-counter .elementor-counter-number-suffix {
+  font-family: "Chelsea Market",Sans-serif;
+  font-weight: 400;
+}
+
+.green-svg{
+  fill: #8ed4cc !important;
+}
+.orange-svg{
+  fill: #ff5722 !important;
 }
