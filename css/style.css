@@ -1719,6 +1719,7 @@ h5 {
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   margin-bottom: 30px;
+  background-color: white !important;
 }
 .news-item .image {
   position: relative;
@@ -4568,4 +4569,8 @@ top: 90%;
 -webkit-transform: translateY(-90%);
 -ms-transform: translateY(-90%);
 transform: translateY(-90%);
+}
+
+.posts-color{
+  background-color: #fff8eb
 }

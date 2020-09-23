@@ -185,7 +185,7 @@
 
     </section>
 
-    <section class="ash-white-bg">
+    <section class="ash-white-bg recent-news-area">
         <div class="container">
             <div class="section-heading section-padding">
                 <h2><span> Waimarie: Hamilton East Community House</span>ABOUT US</h2>
@@ -396,7 +396,7 @@
                 <div class="col-lg-4 col-xl-4 mt-40">
                     <!-- <img src="images/waimarie/Mar P1000854.JPG" class="img-responsive" alt="news"> -->
 
-                    <img src="images/ghoduvolunteer.jpg" alt="" class="img-responsive">
+                    <img src="images/ghoduvolunteer.jpg" alt="" class="img-responsive" style="border-radius: 10px">
                     <iframe src="https://player.vimeo.com/video/199596711?title=0&amp;byline=0&amp;portrait=0"
                         width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"
                         class="vimeostyle"></iframe>
@@ -406,7 +406,7 @@
         </div>
     </section>
 
-    <section class="recent-news-area">
+    <section class="recent-news-area posts-color">
         <div class="container">
             <div class="section-heading section-padding">
                 <h2><span>SEE OUR</span>RECENT POSTS</h2>
